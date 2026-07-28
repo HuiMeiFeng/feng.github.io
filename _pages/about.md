@@ -47,17 +47,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- **Bachelor of Applied Physics**
+- **2016.09 – 2020.06 | Bachelor of Applied Physics**
 
   Jilin University of Chemical Technology
   
-  Sep. 2016 – Jun. 2020
-  
-- **Master of Physics, Joint Training Program**
+- **2021.09 – 2024.06 | Master of Physics, Joint Training Program**
   
   Tibet University & National Astronomical Observatories, Chinese Academy of Sciences
   
-  Sep. 2021 – Jun. 2024
   
 
 # 💬 Invited Talks
